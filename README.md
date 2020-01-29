@@ -1,5 +1,5 @@
 # Circle-Draw-Pattern
-Two circles which are diffrent velocity draw another new pattern
+서로 다른 속도로 돌아가는 두개의 원으로 패턴문양을 그리는 Algorithm
 
 <table>
 <tr>
@@ -8,3 +8,10 @@ Two circles which are diffrent velocity draw another new pattern
 </td>
 </tr>
 </table>
+
+## Requirements
+
+## Usage
+
+## License
+Circle-Draw-Pattern is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
